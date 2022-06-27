@@ -1,0 +1,13 @@
+WEBVTT 
+
+1
+00:00:01.000 --> 00:00:03.300 
+olá meu nome é charle xavier de morais.
+
+2
+00:00:03.000 --> 00:00:06.000 
+moro aqui em monte alegre de minas...
+
+3
+00:00:06.100 --> 00:00:10.000
+tenho 31 anos de vida , sou casado.
